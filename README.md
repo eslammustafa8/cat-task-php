@@ -14,6 +14,7 @@
 
 ## problem solving task 
 - using python
+- link on ideone ["(https://ideone.com/CkKsQp)"]
 
 ## SQL Challenge 
-- 
+- link on ideone ["(https://ideone.com/dAgJl0)"]
